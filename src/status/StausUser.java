@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package status;
+//package status;
 
 /**
  * MidTerm-Exam
  * @author srinivsi
  */
-public class StausUser 
+/*public class StausUser 
 {
    public void statusDetail(String code)
 {
@@ -32,3 +32,4 @@ switch(code.toUpperCase())
 }
  
 }
+*/
